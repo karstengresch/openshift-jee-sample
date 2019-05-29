@@ -1,4 +1,5 @@
 <HTML>
+	<!-- Hi -->
 <HEAD>
 	<TITLE>JBossAS7 JSP snoop page</TITLE>
 	<%@ page import="javax.servlet.http.HttpUtils,java.util.Enumeration" %>
